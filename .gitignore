@@ -31,4 +31,4 @@ npm-debug.log*
 /www
 
 #all env variables
-/config/.env
+/config/config.env
